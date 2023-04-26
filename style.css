@@ -1,0 +1,37 @@
+.meuNome {
+    background-color: rgb(59, 155, 115);
+    color: aliceblue;
+    width: fit-content;
+    border-radius: 25px;
+    padding: 20px;
+    width: 1000x;
+    height: 60px;
+}
+
+.meuBody {
+    font-family: 'Montserrat';font-size: 22px;
+    text-align: left;
+    background-color: rgb(194, 194, 194);
+}
+
+.minhaImg {
+    border-radius: 16%;
+}
+
+.trybeLogo {
+    border-radius: 25px;
+    padding: 20px;
+    width: 600px;
+    height: 150px;
+}
+
+.meuTitulo {
+    background-color: rgb(59, 155, 115);
+    
+    color: aliceblue;
+    width: fit-content;
+    border-radius: 25px;
+    padding: 20px;
+    width: 1000x;
+    height: 20%;
+}
