@@ -1,5 +1,5 @@
 .meuNome {
-    background-color: rgb(59, 155, 115);
+    background-color: rgb(46, 193, 139);
     color: aliceblue;
     width: fit-content;
     border-radius: 25px;
@@ -25,8 +25,15 @@
     height: 150px;
 }
 
+.trybeLogoBackground {
+    background-color: rgb(46, 193, 139);
+    
+    
+        
+}
+
 .meuTitulo {
-    background-color: rgb(59, 155, 115);
+    background-color: rgb(46, 193, 139);
     
     color: aliceblue;
     width: fit-content;
