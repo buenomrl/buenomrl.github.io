@@ -83,6 +83,27 @@
     
 }
 
+/*Botão de voltar para o topo */
+.backTopBT:hover {
+
+    background-color: rgb(46, 193, 139);
+    box-shadow: 2px 2px 30px rgb(46, 193, 139);
+    
+}
+#backTopText {
+    position: fixed;
+
+    top: 900px;
+    left: 1600px;
+    box-shadow: 0px 0px 4px rgb(129, 131, 130);
+    text-decoration: none;  
+    color: aliceblue;
+    border-radius: 5%;
+    transition: 0,5s;
+    
+
+}
+
 
 
 
